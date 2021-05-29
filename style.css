@@ -1,0 +1,114 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    background-color: rgb(13, 17, 23);
+    color: rgb(233, 231, 231);
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
+
+}
+.logo
+{
+    text-align: center;
+    font-size: 50px;
+    padding-top: 32px;
+    padding-bottom: 29px;
+    
+}
+.card-body
+{
+    background-color: rgb(22, 27, 34);
+    padding: 0px !important;
+}
+form
+{
+    background-color: rgb(22, 27, 34);
+    padding: 0px !important;
+    
+}
+.card-css
+{
+    width:325px; 
+    margin: auto;
+    border-radius: 8px !important;
+    padding: 25px;
+    background-color: rgb(22, 27, 34);
+}
+.form-group
+{
+    background-color: rgb(22, 27, 34) !important;
+
+}
+.heading h1
+{
+    margin: auto ;
+    text-align: center;
+    font-size: 24px;
+    font-weight:300;
+    margin-bottom: 20px;
+}
+label
+{
+    float: left;
+    background-color: rgb(22, 27, 34);
+    font-size: 14px;
+}
+.forgot
+{
+    float: right;
+    font-size: 13px ;
+    color: rgb(88, 166, 255);
+    font-weight: 400;
+    background-color: rgb(22, 27, 34);
+
+}
+input{
+    height: 32px !important;
+    width: 266px !important;
+    margin-bottom: 28px !important;
+    background-color: rgb(13, 17, 23) !important;
+    border: none !important;
+}
+button
+{
+    height: 32px;
+    padding: 0 !important;
+    margin: 20px 0px 0px 0px;
+    border-radius: 5px !important;
+}
+.create
+{
+    margin:16px auto;
+    width: 325px;
+    padding: 15px 20px;
+    border: 1px rgb(117, 129, 138) solid;
+    border-radius: 5px;
+    font-size: 14px;
+    text-align: center;
+    color: rgb(186, 195, 201);
+}
+.create a
+{
+    color: rgb(88, 166, 255);
+}
+
+.footer
+{
+    margin: auto;
+    text-align: center;
+    margin-top: 80px;
+    width: 300px;
+}
+ul{
+    float: left;
+    list-style: none;
+    text-align: center;
+    width: 300px;
+}
+li
+{
+    float: left;
+    text-align: center;
+    margin-left: 16px;
+    font-size: 12px;
+}
